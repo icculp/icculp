@@ -14,8 +14,16 @@
 		<img align="center" alt="Ian Culp's Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />
 	</a>
 </p>
+
 Junior level, data-friendly, full-stack developer. Open to work/projects/internships in software development and/or data related roles.
 <h2 align="left"></h2>
+
+
+![Ian Culp's github stats](https://github-readme-stats.vercel.app/api?username=icculp&theme=vue&hide=stars,issues&show_icons=true) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icculp&theme=vue&show_icons=true)
+
+
 <!--
 **icculp/icculp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,7 +41,3 @@ Here are some ideas to get you started:
 
 
 
-
-![Ian Culp's github stats](https://github-readme-stats.vercel.app/api?username=icculp&theme=vue&hide=stars,issues&show_icons=true) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icculp&theme=vue&show_icons=true)
