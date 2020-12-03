@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 open to junior level work in software development and/or data related positions
 
 <!--
 **icculp/icculp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
