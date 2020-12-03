@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 	<a href="http://ianculp.tech">
 		<img align="center" alt="Ian Culp's Website" width="30px" src="https://cdn2.iconfinder.com/data/icons/device-color/512/Untitled-21-512.png" />
 	</a>
-	<a href="https://github.com/icculp">
+	<a href="https://github.com/icculp" style="padding: 10px">
 		<img align="center" alt="Ian Culp's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 	</a>
 	<a href="https://www.linkedin.com/in/ianculp/">
