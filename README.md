@@ -1,4 +1,5 @@
 ### Hello world 👋
+<h2 align="left"></h2>
 Junior level, data-friendly, full-stack developer. Open to work/projects/internships in software development and/or data related roles.
 
 <!--
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<br>
 
 <p align="left">
 	<a href="http://ianculp.tech">
