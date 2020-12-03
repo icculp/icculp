@@ -36,10 +36,9 @@ Here are some ideas to get you started:
 	</a>
 </p>
 
-
+<br>
+<br>
 
 ![Ian Culp's github stats](https://github-readme-stats.vercel.app/api?username=icculp&theme=vue&hide=stars,issues&show_icons=true) 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=icculp&theme=vue&hide=stars,issues&show_icons=true" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icculp&theme=vue&show_icons=true)
