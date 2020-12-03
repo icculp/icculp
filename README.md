@@ -1,6 +1,7 @@
 ### Hello world 👋
 Junior level, data-friendly, full-stack developer. Open to work/projects/internships in software development and/or data related roles.
-<h2 align="left">Find me!</h2>
+
+<h3 align="left">Find me!</h2>
 <p align="left">
 	<a href="http://ianculp.tech">
 		<img align="center" alt="Ian Culp's Website" width="30px" src="https://cdn2.iconfinder.com/data/icons/device-color/512/Untitled-21-512.png" />
@@ -16,6 +17,7 @@ Junior level, data-friendly, full-stack developer. Open to work/projects/interns
 	</a>
 </p
 
+<br>
 <br>
 
 ![Ian Culp's github stats](https://github-readme-stats.vercel.app/api?username=icculp&theme=vue&hide=stars,issues&show_icons=true) 
