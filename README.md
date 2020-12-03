@@ -1,5 +1,4 @@
 ### Hello world 👋
-<h2 align="left"></h2>
 Junior level, data-friendly, full-stack developer. Open to work/projects/internships in software development and/or data related roles.
 <h2 align="left">Find me!</h2>
 <p align="left">
@@ -17,6 +16,7 @@ Junior level, data-friendly, full-stack developer. Open to work/projects/interns
 	</a>
 </p
 
+<br>
 
 ![Ian Culp's github stats](https://github-readme-stats.vercel.app/api?username=icculp&theme=vue&hide=stars,issues&show_icons=true) 
 
