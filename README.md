@@ -1,5 +1,6 @@
 ### Hi there 👋
-Junior level, data-friendly, full-stack developer.\n
+Junior level, data-friendly, full-stack developer.
+
 Open to work/projects/internships in software development and/or data related roles.
 
 <!--
@@ -19,8 +20,8 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="center">Links</h2>
-<p align="center">
+<h2 align="left">Links</h2>
+<p align="left">
 	<a href="http://ianculp.tech">
 		<img align="center" alt="Ian Culp's Website" width="30px" src="https://cdn2.iconfinder.com/data/icons/device-color/512/Untitled-21-512.png" />
 	</a>
