@@ -1,5 +1,7 @@
 ### Hello world 👋
-
+<h2 align="left"></h2>
+Junior level, data-friendly, full-stack developer. Open to work/projects/internships in software development and/or data related roles.
+<h2 align="left">Find me!</h2>
 <p align="left">
 	<a href="http://ianculp.tech">
 		<img align="center" alt="Ian Culp's Website" width="30px" src="https://cdn2.iconfinder.com/data/icons/device-color/512/Untitled-21-512.png" />
@@ -13,10 +15,7 @@
 	<a href="mailto:icculp@gmail.com?Subject=Hello%20Ian">
 		<img align="center" alt="Ian Culp's Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />
 	</a>
-</p>
-
-Junior level, data-friendly, full-stack developer. Open to work/projects/internships in software development and/or data related roles.
-<h2 align="left"></h2>
+</p
 
 
 ![Ian Culp's github stats](https://github-readme-stats.vercel.app/api?username=icculp&theme=vue&hide=stars,issues&show_icons=true) 
