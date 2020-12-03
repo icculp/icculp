@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 	<a href="mailto:icculp@gmail.com?Subject=Hello%20Ian">
 		<img align="center" alt="Ian Culp's Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />
 	</a>
-</p>
 <h2 align="left"></h2>
+</p>
+
 
 ![Ian Culp's github stats](https://github-readme-stats.vercel.app/api?username=icculp&theme=vue&hide=stars,issues&show_icons=true) 
 
