@@ -1,7 +1,5 @@
-### Hi there 👋
-Junior level, data-friendly, full-stack developer.
-
-Open to work/projects/internships in software development and/or data related roles.
+### Hello world 👋
+Junior level, data-friendly, full-stack developer. Open to work/projects/internships in software development and/or data related roles.
 
 <!--
 **icculp/icculp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<br>
 
 <h2 align="left">Links</h2>
 <p align="left">
@@ -36,7 +34,6 @@ Here are some ideas to get you started:
 	</a>
 </p>
 
-<br>
 <br>
 
 ![Ian Culp's github stats](https://github-readme-stats.vercel.app/api?username=icculp&theme=vue&hide=stars,issues&show_icons=true) 
