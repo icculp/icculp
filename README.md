@@ -14,9 +14,8 @@
 		<img align="center" alt="Ian Culp's Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />
 	</a>
 </p>
-<h2 align="left"></h2>
 Junior level, data-friendly, full-stack developer. Open to work/projects/internships in software development and/or data related roles.
-
+<h2 align="left"></h2>
 <!--
 **icculp/icculp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
