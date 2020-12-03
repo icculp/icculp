@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 
 <h2 align="left"></h2>
+<br>
 <p align="left">
 	<a href="http://ianculp.tech">
 		<img align="center" alt="Ian Culp's Website" width="30px" src="https://cdn2.iconfinder.com/data/icons/device-color/512/Untitled-21-512.png" />
