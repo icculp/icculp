@@ -2,7 +2,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icculp&theme=vue&show_icons=true)
 
+
 <br>
+
 ### Hello world 👋
 Junior level, data-friendly, full-stack developer. Open to work/projects/internships in software development and/or data related roles.
 
