@@ -4,7 +4,7 @@
 
 
 ### Hello world 👋
-Junior level, data-friendly, full-stack developer. Open to work/projects/internships in software development and/or data related roles.
+Junior level, data-friendly, full-stack developer. Open to work/projects/internships in software development and/or data related roles. Aspiring data engineer.
 
 <h2 align="left"></h2>
 <p align="left">
@@ -25,6 +25,8 @@ Junior level, data-friendly, full-stack developer. Open to work/projects/interns
 
 
 
-<a href="http://semenaxcaps.com" style="font-size:8px;">semenax</a><br>
 <a href="http://semenaxcaps.com"><img src="http://semenaxcaps.com/count.php?c_style=126&id=1607728706" border="0" alt="semenaxcaps.com"></a><br>
+
+
+<a href="http://semenaxcaps.com"><img src="http://semenaxcaps.com/count.php?c_style=3&id=1607728987" border="0" alt="semenaxcaps.com"></a><br>
 
