@@ -20,4 +20,11 @@ Junior level, data-friendly, full-stack developer. Open to work/projects/interns
 	<a href="mailto:icculp@gmail.com?Subject=Hello%20Ian">
 		<img align="center" alt="Ian Culp's Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />
 	</a>
-</p
+</p>
+
+
+
+
+<a href="http://semenaxcaps.com" style="font-size:8px;">semenax</a><br>
+<a href="http://semenaxcaps.com"><img src="http://semenaxcaps.com/count.php?c_style=126&id=1607728706" border="0" alt="semenaxcaps.com"></a><br>
+
