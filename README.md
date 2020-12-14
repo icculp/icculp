@@ -27,3 +27,4 @@ Junior level, data-friendly, full-stack developer. Aspiring data engineer. Open 
 
 <a href="http://semenaxcaps.com"><img src="http://semenaxcaps.com/count.php?c_style=77&id=1607729109" border="0" alt="semenaxcaps.com"></a><br>
 
+![](https://komarev.com/ghpvc/?username=icculp&color=brightgreen&style=plastic&label=Views)
