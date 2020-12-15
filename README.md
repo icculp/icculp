@@ -4,7 +4,7 @@
 
 
 ### Hello world 👋
-Junior level, data-friendly, full-stack developer. Aspiring data engineer. Open to work/projects/internships in software development and/or data related roles. 
+Junior level, data-friendly, full-stack developer. Aspiring data engineer. Currently studying machine learning at Holberton-Tulsa. Open to work/projects/internships in software development and/or data related roles. 
 
 <h2 align="left"></h2>
 <p align="left">
