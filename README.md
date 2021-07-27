@@ -1,10 +1,7 @@
 ![Ian Culp's github stats](https://github-readme-stats.vercel.app/api?username=icculp&theme=vue&hide=stars,issues&show_icons=true) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icculp&theme=vue&show_icons=true)
-
-
 ### Hello world 👋
-Junior level, data-friendly, full-stack developer. Aspiring data engineer. Currently studying machine learning at Holberton-Tulsa. Open to work/projects/internships in software development and/or data related roles. 
+Junior level, data-friendly, full-stack developer. Looking for a full time software development and/or data related role to start September 2021. 
 
 <h2 align="left"></h2>
 <p align="left">
@@ -28,3 +25,5 @@ Junior level, data-friendly, full-stack developer. Aspiring data engineer. Curre
 <a href="http://semenaxcaps.com"><img src="http://semenaxcaps.com/count.php?c_style=77&id=1607729109" border="0" alt="semenaxcaps.com"></a><br>
 
 ![](https://komarev.com/ghpvc/?username=icculp&color=brightgreen&style=plastic&label=Views)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icculp&theme=vue&show_icons=true)
