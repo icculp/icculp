@@ -1,4 +1,4 @@
-![Ian Culp's github stats](https://github-readme-stats.vercel.app/api?username=icculp&theme=vue&hide=stars,issues&show_icons=true) 
+![Ian Culp's github stats](https://github-readme-stats.vercel.app/api?username=icculp&theme=vue&hide=stars&show_icons=true) 
 
 ### Hello world 👋
 Junior level, data-friendly, full-stack developer. Looking for a full time software development and/or data related role to start September 2021. 
