@@ -1,7 +1,19 @@
+### Hello world 👋
+Junior level, data-friendly, full-stack developer particularly interested in Bitcoin/permissionless blockchains/decentralization, data analytics/machine learning, helping people and making things work. My skills are wide and varied and I hope to land a full stack developer job somewhere in the intersection of these fields, but I have an open mind to interesting opportunities. 
+
+__Looking for a full time software development and/or data related role to start September 2021. icculp@gmail.com__ 
+
+Currently:
+* Studing Machine Learning @ Holberton-Tulsa (full time, ends Aug)
+* Interning with Blockchain Commons (part time, ends Aug)
+* Actively mining Bitcoin and Ethereum
+* Masters in Analytics with Georiga Tech (starts Aug 23, part time)
+* Looking for a full time developer job to start September
+
 ![Ian Culp's github stats](https://github-readme-stats.vercel.app/api?username=icculp&theme=vue&hide=stars&show_icons=true) 
 
-### Hello world 👋
-Junior level, data-friendly, full-stack developer. Looking for a full time software development and/or data related role to start September 2021. 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icculp&theme=vue&show_icons=true&hide=jupyter%20notebook)
+
 
 <h2 align="left"></h2>
 <p align="left">
@@ -25,5 +37,3 @@ Junior level, data-friendly, full-stack developer. Looking for a full time softw
 <a href="http://semenaxcaps.com"><img src="http://semenaxcaps.com/count.php?c_style=77&id=1607729109" border="0" alt="semenaxcaps.com"></a><br>
 
 ![](https://komarev.com/ghpvc/?username=icculp&color=brightgreen&style=plastic&label=Views)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icculp&theme=vue&show_icons=true)
