@@ -1,5 +1,5 @@
 ### Hello world 👋
-Junior level, data-friendly, full-stack developer particularly with broad range of skills and competencies, particularly interested in Bitcoin/permissionless blockchains/decentralization, data analytics/machine learning, helping people and making things work. My skills are wide and varied and I hope to land a full stack developer job somewhere in the intersection of these fields, but I have an open mind to interesting opportunities. 
+Junior level, data-friendly, full-stack developer with broad range of skills and competencies, particularly interested in Bitcoin/permissionless blockchains/decentralization, data analytics/machine learning, helping people and making things work. My skills are wide and varied and I hope to land a full stack developer job somewhere in the intersection of these fields, but I have an open mind to interesting opportunities. 
 
 __Looking for a full time software development and/or data related role to start September 2021. icculp@gmail.com__ 
 
