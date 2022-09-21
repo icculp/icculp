@@ -1,14 +1,6 @@
 ### Hello world 👋
-Junior-level, data-friendly, full-stack technologist with broad range of skills and competencies hoping to build / deploy / utilize technology to improve the human condition via software development / analytics / devops. 
+Full-stack technologist with broad range of skills and competencies hoping to harness technology to improve the human condition via software development / analytics. 
 
-__Looking for a full time software development and/or data related role to start September 2021. icculp@gmail.com__ 
-
-Currently:
-* Studing Machine Learning @ Holberton-Tulsa (full time, ends Aug)
-* Interning with Blockchain Commons (part time, ends Aug)
-* Actively mining Bitcoin and Ethereum
-* Masters in Analytics with Georiga Tech (starts Aug 23, part time)
-* Looking for a full time developer job to start September
 
 ![Ian Culp's github stats](https://github-readme-stats.vercel.app/api?username=icculp&theme=vue&hide=stars&show_icons=true) 
 
